@@ -6,4 +6,6 @@ Getting Started
 Prerequisites
 Python 3.x
 Installation
+
 Clone the repository:
+https://github.com/Jay1357/CodeClauseInternship_Tic-Tac-Toe-AI.git
